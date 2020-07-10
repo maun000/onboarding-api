@@ -1,0 +1,27 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maun000/onboarding-api.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco"
+  ],
+  "author": "Nisse <nisse@example.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maun000/onboarding-api/issues"
+  },
+  "homepage": "https://github.com/maun000/onboarding-api#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
